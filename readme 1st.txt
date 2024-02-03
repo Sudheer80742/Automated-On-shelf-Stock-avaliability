@@ -1,3 +1,4 @@
+Install jupyter Notebook or any python IDE then
 import and install required modules 
 1.tensorflow
 2.openCV 
